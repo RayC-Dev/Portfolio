@@ -9,8 +9,11 @@ Bienvenue sur mon hub de projets. Développeur en recherche d'alternance, je con
 Chaque projet est conçu pour résoudre un problème spécifique.
 
 ### [Projet 1 - OpsBoard]
+
 > *Un tableau de bord pour monitorer les performances d'IA locale.*
+> 
 - **Technos:**  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white!)  ![JS](https://img.shields.io/badge/JSS-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![VERCEL](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+- 
 - [[Dépôt OpsBoard](https://github.com/RayC-Dev/OpsBoard)] | [[OpsBoard](https://opsboard-omega.vercel.app)]
 - **Ce que j'ai appris:** Gestion d'API navigateur, architecture modulaire.
 
@@ -22,4 +25,5 @@ Chaque projet est conçu pour résoudre un problème spécifique.
 ---
 
 ## Contact
+
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chellirayan.dc@gmail.com) 
