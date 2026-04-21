@@ -8,16 +8,16 @@ Bienvenue sur mon hub de projets. Développeur en recherche d'alternance, je con
 
 Chaque projet est conçu pour résoudre un problème spécifique.
 
-### [Nom du Projet 1 - Ex: OpsBoard]
+### [Projet 1 - OpsBoard]
 > *Un tableau de bord pour monitorer les performances d'IA locale.*
 - **Technos:** HTML5, CSS3, JS, Vercel
-- [Lien vers le dépôt](#) | [Lien vers le site live](#)
+- [[Lien vers le dépôt](https://github.com/RayC-Dev/OpsBoard)](#) | [[Lien vers OpsBoard](https://opsboard-omega.vercel.app/#accueil)](#)
 - **Ce que j'ai appris:** Gestion d'API navigateur, architecture modulaire.
 
-### [Nom du Projet 2 - Ex: Outil X]
+### [Projet 2 - SAS de sécurité]
 > *Description brève et impactante du projet.*
 - **Technos:** [Techno 1], [Techno 2]
-- [[Lien vers le dépôt](https://github.com/RayC-Dev/SAS-Security-System-IOT)](#) | [[Lien vers OpsBoard](https://opsboard-omega.vercel.app/#accueil)](#)
+- [[Lien vers le dépôt](https://github.com/RayC-Dev/SAS-Security-System-IOT)](#)
 
 ---
 
