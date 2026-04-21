@@ -17,7 +17,7 @@ Chaque projet est conçu pour résoudre un problème spécifique.
 ### [Nom du Projet 2 - Ex: Outil X]
 > *Description brève et impactante du projet.*
 - **Technos:** [Techno 1], [Techno 2]
-- [Lien vers le dépôt](#) | [Lien vers le site live](#)
+- [Lien vers le dépôt](#) | [Lien vers le site live](#https://opsboard-omega.vercel.app/#accueil)
 
 ---
 
