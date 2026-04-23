@@ -1,0 +1,163 @@
+
+        :root {
+            --s-red: #ff0000;
+            --s-black: #000000;
+            --s-gray: #e5e5e5;
+            --s-white: #ffffff;
+            --s-text: #1a1a1a;
+        }
+
+        body {
+            background-color: var(--s-white);
+            color: var(--s-text);
+            font-family: 'Space+Mono', monospace;
+            overflow: hidden;
+            text-transform: uppercase;
+        }
+
+        /* --- UI OVERLAYS --- */
+        .overlay {
+            position: fixed;
+            inset: 0;
+            background: linear-gradient(rgba(255, 255, 255, 0) 50%, rgba(0, 0, 0, 0.02) 50%);
+            background-size: 100% 3px;
+            z-index: 100;
+            pointer-events: none;
+        }
+
+        /* --- BACKGROUND LINES --- */
+        .scope-line-h {
+            position: absolute;
+            width: 100vw;
+            height: 1px;
+            background: rgba(0, 0, 0, 0.05);
+            z-index: 0;
+        }
+
+        .scope-line-v {
+            position: absolute;
+            height: 100vh;
+            width: 1px;
+            background: rgba(0, 0, 0, 0.05);
+            z-index: 0;
+        }
+
+        /* --- CENTRAL PROJECT TERMINAL --- */
+        .central-container {
+            position: relative;
+            z-index: 50;
+            width: 100%;
+            max-width: 900px;
+            background: var(--s-white);
+            border: 1px solid var(--s-black);
+            box-shadow: 20px 20px 0px rgba(0,0,0,0.03);
+        }
+
+        .project-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 1px;
+            background: var(--s-black);
+        }
+
+        .project-card {
+            background: var(--s-white);
+            padding: 24px;
+            transition: all 0.2s ease;
+            cursor: pointer;
+            position: relative;
+        }
+
+        .project-card:hover {
+            background: var(--s-black);
+            color: var(--s-white);
+        }
+
+        .project-card:hover .project-id {
+            color: var(--s-red);
+        }
+
+        .project-id {
+            font-size: 10px;
+            color: rgba(0, 0, 0, 0.3);
+            margin-bottom: 8px;
+            transition: color 0.3s;
+        }
+
+        .project-title {
+            font-size: 20px;
+            font-weight: 700;
+            letter-spacing: -1px;
+            margin-bottom: 12px;
+        }
+
+        /* --- TARGET BOXES (ASSETS) --- */
+        .target-box {
+            position: absolute;
+            border: 1px solid var(--s-red);
+            transition: all 1s cubic-bezier(0.4, 0, 0.2, 1);
+            z-index: 10;
+        }
+
+        .target-box::before {
+            content: "";
+            position: absolute;
+            top: -2px; left: -2px; width: 8px; height: 8px;
+            border-top: 3px solid var(--s-black); border-left: 3px solid var(--s-black);
+        }
+
+        .target-label {
+            position: absolute;
+            top: -18px;
+            left: 0;
+            background: var(--s-black);
+            color: red;
+            font-size: 9px;
+            font-weight: bold;
+            padding: 0 6px;
+            white-space: nowrap;
+        }
+
+        /* --- COMPONENTS --- */
+        .triangle-down {
+            width: 0; height: 0;
+            border-left: 14px solid transparent;
+            border-right: 14px solid transparent;
+            border-top: 18px solid var(--s-red);
+        }
+
+        .nav-node {
+            border-left: 3px solid var(--s-red);
+            background: rgba(0, 0, 0, 0.03);
+            padding: 12px 20px;
+            transition: all 0.3s;
+            cursor: pointer;
+        }
+
+        .nav-node:hover {
+            background: var(--s-black);
+            color: white;
+        }
+
+        .hazard-strip {
+            background: repeating-linear-gradient(45deg, var(--s-red), var(--s-red) 10px, transparent 10px, transparent 20px);
+            height: 6px;
+            width: 100%;
+        }
+
+        /* Custom Scrollbar */
+        .custom-scroll::-webkit-scrollbar { width: 6px; }
+        .custom-scroll::-webkit-scrollbar-track { background: var(--s-gray); }
+        .custom-scroll::-webkit-scrollbar-thumb { background: var(--s-black); }
+
+        @keyframes scanline {
+            0% { transform: translateY(-100%); }
+            100% { transform: translateY(100%); }
+        }
+        .scan-anim {
+            position: absolute;
+            width: 100%;
+            height: 100px;
+            background: linear-gradient(to bottom, transparent, rgba(255, 0, 0, 0.03), transparent);
+            animation: scanline 8s linear infinite;
+        }
