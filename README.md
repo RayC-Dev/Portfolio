@@ -1,6 +1,7 @@
 # Portfolio - [RayC]
 
 Bienvenue sur la version github de mon hub de projets. Développeur en recherche d'alternance, je concentre ici mes travaux techniques, mes expérimentations et mes outils.
+
 Voici la version web de mon portfolio  -->  [[Portfolio web](https://portfolio-ray-omega.vercel.app)]
 
 ---
