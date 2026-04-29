@@ -12,7 +12,7 @@ Chaque projet est conçu pour résoudre un problème spécifique.
 
 ### [Projet 1 - OpsBoard]
 
-> *Un tableau de bord pour monitorer les performances d'IA locale.*
+> *OpsBoard est une plateforme de monitoring en temps réel intégrant des flux de données géospatiales à l'échelle mondiale. Ce projet centralise aussi un module de diagnostic pour tester la compatibilité des IA locales, gestionnaire d'outils, le monitoring système en temps réel et la veille technologique au sein d'un dashboard unique.*
 
 
 - **Technos:**  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white!)  ![JS](https://img.shields.io/badge/JSS-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![VERCEL](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
