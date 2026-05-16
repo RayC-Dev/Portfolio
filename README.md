@@ -32,6 +32,20 @@ Chaque projet est conçu pour résoudre un problème spécifique.
   
 - [[Dépôt SAS-Security-System-IOT](https://github.com/RayC-Dev/SAS-Security-System-IOT)]
 
+
+
+
+
+### [Projet 3 - Intersection]
+
+> *Un utilitaire web ultra-rapide conçu pour comparer instantanément des listes de données complexes et en extraire les points communs sans aucun traitement serveur.*
+
+
+- **Technos:**  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+  
+- [[Dépôt SAS-Security-System-IOT](https://github.com/RayC-Dev/SAS-Security-System-IOT)]
+
+
 ---
 
 ## Contact
