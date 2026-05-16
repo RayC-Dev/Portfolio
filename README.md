@@ -41,9 +41,9 @@ Chaque projet est conçu pour résoudre un problème spécifique.
 > *Un utilitaire web ultra-rapide conçu pour comparer instantanément des listes de données complexes et en extraire les points communs sans aucun traitement serveur.*
 
 
-- **Technos:**  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+- **Technos:**  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white!)  ![JS](https://img.shields.io/badge/JSS-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![VERCEL](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
   
-- [[Dépôt SAS-Security-System-IOT](https://github.com/RayC-Dev/SAS-Security-System-IOT)]
+- [[Dépôt Intersection](https://github.com/RayC-Dev/Intersection)] | [[Site Intersection]([https://intersection-omega.vercel.app)]
 
 
 ---
