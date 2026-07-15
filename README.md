@@ -5,7 +5,7 @@ Parallèlement à mes projets de développement classiques, je me passionne pour
 
 Voici la version web de mon portfolio  -->  [[Portfolio web](https://portfolio-ray-omega.vercel.app)]
 
-Voici mon portfolio Technique - Jeu Vidéo  -->  [[Portfolio web](https://gamefolio-ray.vercel.app)]
+Voici mon portfolio Technique - Jeu Vidéo  -->  [[GameFolio](https://gamefolio-ray.vercel.app)]
 
 ---
 
