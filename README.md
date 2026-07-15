@@ -1,8 +1,16 @@
-# Portfolio - [RayC]
+# Portfolio - [RayC/Dwizox]
 
 Bienvenue sur la version github de mon hub de projets. Développeur en recherche d'alternance, je concentre ici mes travaux techniques, mes expérimentations et mes outils.
 
 Voici la version web de mon portfolio  -->  [[Portfolio web](https://portfolio-ray-omega.vercel.app)]
+
+---
+
+## 🎮 Spécialisation Jeu Vidéo & Analyse de Systèmes
+
+Parallèlement à mes projets de développement classiques, je me passionne pour la déconstruction de gameplay, la physique des moteurs de jeu et l'analyse d'équilibrage (theorycrafting). 
+
+👉 **[Consulter mon Portfolio Gaming & Analyse de Gameplay](TON_LIEN_VERCEL_ICI)** *(Remplace ce texte par ton lien Vercel !)*
 
 ---
 
@@ -50,4 +58,4 @@ Chaque projet est conçu pour résoudre un problème spécifique.
 
 ## Contact
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chellirayan.dc@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chellirayan.dc@gmail.com)
