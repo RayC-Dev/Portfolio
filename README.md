@@ -54,5 +54,4 @@ Chaque projet est conçu pour résoudre un problème spécifique.
 ## Contact
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chellirayan.dc@gmail.com) 
-# Portfolio - [RayC/Dwizox]
 
