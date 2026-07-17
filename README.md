@@ -62,14 +62,6 @@ Voici la version web de mon portfolio  -->  [[Portfolio web](https://portfolio-r
 
 ---
 
-## 🎮 Spécialisation Jeu Vidéo & Analyse de Systèmes
-
-Parallèlement à mes projets de développement classiques, je me passionne pour la déconstruction de gameplay, la physique des moteurs de jeu et l'analyse d'équilibrage (theorycrafting). 
-
-👉 **[Consulter mon Portfolio Gaming & Analyse de Gameplay](TON_LIEN_VERCEL_ICI)** *(Remplace ce texte par ton lien Vercel !)*
-
----
-
 ## Projets en vedette
 
 Chaque projet est conçu pour résoudre un problème spécifique.
